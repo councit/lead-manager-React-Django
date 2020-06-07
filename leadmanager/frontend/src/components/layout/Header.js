@@ -17,7 +17,7 @@ export class Header extends Component {
         </button>
         <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
           <a className="navbar-brand" href="#">
-            Lead Manager
+            Lead Managers
           </a>
           <ul className="navbar-nav mr-auto mt-2 mt-lg-0"></ul>
         </div>
